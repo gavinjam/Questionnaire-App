@@ -1,0 +1,38 @@
+Q:
+Are you stressed or feeling down?
+Q:
+Is it medical/health related?
+Q:
+Do you have a headache?
+Q:
+Is it severe?
+A:
+Take motrin and ly down on your back and relax.
+Q:
+Do you feel sweaty or hot?
+A:
+You may have a fever. To be sure, take your temperature and take the necessary medication.
+Q:
+Do you have a running nose and blocked hearing?
+A:
+You may have sinus and therefore should take some cold related medication.
+A:
+You are healthy and doing well.
+Q:
+Does your stomach hurt?
+Q:
+Is it severe?
+A:
+You may have acid, try taking stomach related medication.
+A:
+Try to ly down on your side and relax.
+A:
+You are healthy and doing well.
+Q:
+Is it academic related?
+A:
+Try some new study strategy or take a break.
+A:
+You are healthy and doing well.
+A:
+Congratulations! You have nothing to worry about!
